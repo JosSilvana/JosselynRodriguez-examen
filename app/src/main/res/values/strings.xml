@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JosselynRodriguez-examen</string>
+    <string name="usuario">USUARIO: </string>
+    <string name="contraseña">CONTRASEÑA: </string>
+    <string name="Blogin">INICIAR SESIÓN </string>
+    <string name="TituloRegistro">REGISTRO DE ESTUDIANTES </string>
+    <string name="nombre">Nombre: </string>
+    <string name="MontoInicial">Monto inicial: </string>
+    <string name="PagoMensual">Pago Mensual: </string>
+    <string name="BPagoMensual">CALCULAR </string>
+    <string name="Bguardar">GUARDAR </string>
+    <string name="envioUsuario">Usuario conectado: </string>
+    <string name="TituloEncuesta">ENCUESTA A LOS ESTUDIANTES </string>
+    <string name="enunciado">RESPONDE LAS SIGUIENTES PREGUNTAS:</string>
+    <string name="pregunta1">1. ¿Por qué eligió este centro?</string>
+    <string name="pregunta2">2. ¿Qué deportes practica?</string>
+    <string name="opcion21">Volley</string>
+    <string name="opcion22">Futbol</string>
+    <string name="opcion23">Basquetball</string>
+    <string name="pregunta3">3. ¿Está interesado en aprender otro idioma aparte de inglés?</string>
+    <string name="opcion31">SI</string>
+    <string name="opcion32">NO</string>
+    <string name="Benviar">ENVIAR</string>
+    <string name="envioNombre">Nombre:</string>
+    <string name="TituloResumen">RESUMEN DE INSCRIPCIÓN </string>
+    <string name="total">Total a pagar: </string>
+    <string name="respuestas">Respuestas encuesta: </string>
+
+</resources>
